@@ -1,0 +1,5 @@
+- Name: campaign1test
+  Version: 0.0.1
+  Dependencies:
+    - Name: Everest
+      Version: 1.4335.0
